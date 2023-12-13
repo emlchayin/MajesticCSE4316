@@ -1,0 +1,26 @@
+Installation Guide for Majestic Application
+Welcome to the installation guide for the Majestic Application. This simple guide will walk you through the process of downloading and running the application on your Windows computer. No technical knowledge is required; just follow these steps:
+
+Step 1: Downloading the Application
+1.	Go to the GitHub repository for the Majestic Application: MajesticCSE4316
+2.	Find the Code button near the top-right corner of the page.
+3.	Click on it and select Download ZIP from the dropdown menu.
+4.	Choose a location on your computer to save the ZIP file and wait for the download to finish.
+Step 2: Extracting the Application
+1.	Navigate to the location where you downloaded the ZIP file.
+2.	Right-click on the ZIP file. It will be named something like MajesticCSE4316-main.zip.
+3.	Select Extract All... from the context menu.
+4.	In the dialog that appears, you can choose where to extract the files or just use the suggested location. Then, click the Extract button.
+5.	After extraction, a folder named MajesticCSE4316-main will appear.
+Step 3: Running the Application
+1.	Open the MajesticCSE4316-main folder.
+2.	Inside, navigate to the dist folder.
+3.	You will find the executable file for the Majestic Application here. It will have an .exe extension, for example, MajesticApp.exe.
+4.	Double-click on the .exe file to run the application.
+5.	If a security warning appears asking if you want to run the file, click Run.
+Note: The first time you run the application, your antivirus software might perform a routine check to ensure the application is safe. This is a standard procedure for new files.
+Troubleshooting
+•	If you receive a message stating that the application can’t be run on your PC, click on More info and then select Run anyway.
+•	Make sure to extract the ZIP file before trying to run the application. The application will not run directly from within the ZIP file.
+•	
+Thank you for choosing Majestic Application. We hope you enjoy using it!
